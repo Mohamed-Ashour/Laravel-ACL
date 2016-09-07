@@ -10,8 +10,11 @@
 	$ php artisan serve
 
 
-admin email: ahmed@gmail.com
-admin password: 123456
+admin-email: ahmed@gmail.com
 
-user email: mohamed@gmail.com
-user password: 123456
+admin-password: 123456
+
+
+user-email: mohamed@gmail.com
+
+user-password: 123456
