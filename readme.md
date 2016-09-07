@@ -11,10 +11,8 @@
 
 
 admin-email: ahmed@gmail.com
-
 admin-password: 123456
 
 
 user-email: mohamed@gmail.com
-
 user-password: 123456
